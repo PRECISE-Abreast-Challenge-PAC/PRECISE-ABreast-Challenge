@@ -11,6 +11,6 @@ All participants **must have a Codabench account** to join the competition.
 
 👥 Each team can have up to **5 members**, including one **designated team leader**.
 
-✅ Make sure all Codabench usernames submitted in the form are **accurate**, as they are required to grant access to the dataset and enable submission functionality.
+✅ Please make sure to provide accurate **Codabench** usernames for all team members, as this is required to grant access to the dataset and submission platform.
 
 🕒 After completing these steps, please allow a few hours for the organizers to **review and approve** your application.
