@@ -7,7 +7,7 @@ All participants **must have a Codabench account** to join the competition.
    [Registration Form](https://forms.office.com/r/40RFrz6XRJ)
 3. **Click on the competition link** to access the challenge page:  
    [Join PRECISE-Abreast Challenge]()
-4. On the competition page, click **"My Submission"** to complete your registration.
+4. On the competition page, click **My Submission** to complete your registration.
 
 👥 Each team can have up to **5 members**, including one **designated team leader**.
 
