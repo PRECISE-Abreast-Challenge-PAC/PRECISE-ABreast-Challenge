@@ -114,9 +114,11 @@ Details for the Cog containerized model test evaluation are provided on Github.
 
 ## 🗓️ Important Dates
 
-📅 The challenge will run across multiple phases, including training, validation, and test periods.  
+The challenge will run across multiple phases, including training, validation, and test periods.  
 Please refer to the timeline below for key dates and deadlines:
+
 ![PRECISE-Abreast Timeline](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/Resources/timeline.jpg?raw=true)
+
 ---
 
 ## 👥 Abreast Data Contributors
