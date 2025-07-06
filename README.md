@@ -144,6 +144,12 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 
 ---
 
+## 📜 Terms and Conditions
+📌 **Terms and conditions apply** – please review the full document here:  
+[View Full Terms and Conditions]()
+
+---
+
 ## 📬 Contact
 
 Please contact us for further questions or comments via email:  **preciseabrestchallenge@gmail.com**
