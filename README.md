@@ -126,6 +126,19 @@ Please refer to the timeline below for key dates and deadlines:
 - 🏥 **Ernest Cook Ultrasound Research and Education Institute** – Kampala, Uganda  
 - 🏥 **Crestview Radiology Ltd** – Lagos, Nigeria
 
+📂 **Access Instructions:**  
+You can find full details, structure, and download instructions in the [Dataset README](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/dataset.md).
+
+---
+
+## 📨 Submission
+
+Participants will be required to submit predictions for both **Multi-Task Segmentation** and **Multi-Task Classification** tasks.  
+The format and naming conventions for the predictions must strictly follow the competition rules.
+
+📜 **Submission Guidelines:**  
+Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/submission.md) for complete instructions.
+
 ---
 
 ## 📬 Contact
