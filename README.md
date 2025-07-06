@@ -15,6 +15,9 @@ Each team can have up to **5 members**, including one designated **team leader**
 
 Please make sure to provide accurate **Codabench usernames** for all team members, as this is required to grant access to the dataset and submission platform.
 
+📜 **Registration Guidelines:**  
+Please refer to the [Registration README]() for complete instructions.
+
 ---
 
 ## 📝 Award Eligibility
