@@ -146,7 +146,7 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 
 ## 📜 Terms and Conditions
 📌 **Terms and conditions apply** – please review the full document here:  
-[View Full Terms and Conditions]()
+[View Full Terms and Conditions](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/terms_conditions.md)
 
 ---
 
