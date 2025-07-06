@@ -9,10 +9,10 @@ The PRECISE-Abreast Challenge utilizes a curated, multi-institutional dataset of
 
 All images are paired with expert-verified reference annotations, including  **lesion boundaries** and **diagnostic labels** ( `normal`, `benign`, `malignant`.), enabling robust supervised learning and quantitative evaluation. The combined dataset reflects a wide range of ultrasound acquisition protocols and patient demographics to improve algorithmic fairness and clinical relevance.
 
-**Phase I** includes **2,911  images across training and validation sets**, comprising
-- 1,197 benign  
-- 1,579 malignant  
-- 134 normal  cases sourced from the **BUSI, BrEaST**, and **BUS-BRA** datasets.
+**Phase I** includes **7,354  images across training and validation sets**, comprising
+- 4,574 benign  
+- 2,248 malignant  
+- 532 normal  cases sourced from the **BUSI, BrEaST**, and **BUS-BRA** datasets.
 
 **Phase II** introduces new annotated cases from the **ABreast dataset**. A **private test subset** will be reserved for the Test Phase and used for the final evaluation of submitted models, ensuring blind, unbiased assessment on African-representative data.
 
