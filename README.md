@@ -1,5 +1,5 @@
 ![PRECISE-Abreast Challenge Banner](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/Resources/images/PRECISE.jpg?raw=true)
-# 🩺 Welcome to the PRECISE-Abreast Challenge
+# 🩺 Welcome to the PRECISE-ABreast Challenge
 **PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PACE)**
 
 Breast cancer is highly prevalent in Africa, with many women presenting at late stages due to limited awareness, diagnostic access, and cultural stigma. The lack of annotated breast imaging datasets representative of African populations also limits the effectiveness of AI in supporting early detection. Radiologist shortages, financial constraints, and societal barriers further complicate timely diagnosis and care, especially in rural and underserved areas.
