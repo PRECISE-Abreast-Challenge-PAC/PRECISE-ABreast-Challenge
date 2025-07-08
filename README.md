@@ -152,40 +152,47 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 ### 👥 Organizing Committee
 - Confidence Raymond (SPARK Academy)  
 - Moses Iorumbur (FUT Minna, Nigeria)  
-- Maruf Adewole (University of Pennsylvania, USA)  
+- MMaruf Adewole (UPenn, US) 
 - Henry Sanni (FUT Minna, Nigeria)  
 - John Othieno (ECUREI – Uganda)  
 
 ### 🛠 Technical Committee
 - Mohannad Barakat (FAU, Germany)  
-- Toufiq Musah (KNU Kumasi – Ghana)  
-- Philip Nkwam (LASU, Lagos – Nigeria)  
 - Noha Magdy (FAU, Germany)  
-- Oumayma Soula (FMS Sfax – Tunisia)  
-- Ayomide Oladele (MAILAB, Lagos – Nigeria)  
+- Toufiq Musah (KNU Kumasi - Ghana) 
+- Oumayma Soula (FMS Sfax - Tunisia)  
+- Ayomide Oladele (MAILAB Lagos -Nigeria) 
+- Patience Bwire (CWU Rwanda) 
 
 ### 🩺 Clinical Committee & Annotators
-- Dr. Charity Umoren (MAILAB, Lagos – Nigeria)  
-- Dr. Abbas Rabiu Muhammad (AKTH, Kano – Nigeria)  
-- Dr. Adaobi Emegoakor (NAUTH, Nnewi – Nigeria)  
-- Dr. Chinasa Kalaiwo (NK, Abuja – Nigeria)  
-- Dr. Gbadamosi Yewande Rukayat (LASUTH, Lagos – Nigeria)  
+- Dr. Charity Umoren (MAILAB Lagos – Nigeria)  
+- Dr. Abbas Rabiu Muhammad (AKTH Nnewi – Nigeria)  
+- Dr. Adaobi Emegoakor (NAUTH Nnewi – Nigeria)  
+- Dr. Chinasa Kalaiwo (NK Abuja – Nigeria)  
+- Dr. Gbadamosi Yewande Rukayat (LASUTH Lagos – Nigeria)  
 
 ### 📊 Data Contributors
 - Richard Malumba (ECUREI – Uganda)  
 - Denis Musinguzi (ECUREI – Uganda)  
-- Patience Atukunda (ECUREI – Uganda)  
+- Patience Atukunda (ECUREI – Uganda)
+- Mrs Franca Eze (My Body My Asset Cancer Foundation, Shasha, Lagos)
+- Ernest Cook Ultrasound Research and Education Institute (ECUREI), Kampala, Uganda 
+- Crestview Radiology Ltd, Lagos, Nigeria / Medical Artificial Intelligence Lab. Lagos, Nigeria
 
 ### 🧭 Scientific Directors
 - Dr. Udunna Anazodo (McGill University, Canada)  
 - Dr. Farouk Dako (University of Pennsylvania, USA)  
-- Prof. Michael Kowoya (ECUREI – Uganda)  
+- Prof. Michael Kowoya (ECUREI – Uganda) 
+
+### 🤝 Sponsors & Funding
+- Lacuna Fund
+- Penn Global
 
 ---
 
 ## 📬 Contact
 
-Please contact us for further questions or comments via email:  **preciseabrestchallenge@gmail.com**
+Please contact us for further questions or comments via email:  **preciseabrestchallenge@gmail.com** **https://precisesymposium.org/**
 
 ---
 
