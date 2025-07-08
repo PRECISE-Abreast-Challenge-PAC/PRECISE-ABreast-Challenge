@@ -176,7 +176,7 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 - Denis Musinguzi (ECUREI – Uganda)  
 - Patience Atukunda (ECUREI – Uganda)  
 
-### 🔎 Scientific Directors
+### 🧭 Scientific Directors
 - Dr. Udunna Anazodo (McGill University, Canada)  
 - Dr. Farouk Dako (University of Pennsylvania, USA)  
 - Prof. Michael Kowoya (ECUREI – Uganda)  
