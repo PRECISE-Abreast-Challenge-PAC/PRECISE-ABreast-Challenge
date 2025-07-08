@@ -121,7 +121,7 @@ Please refer to the timeline below for key dates and deadlines:
 
 ---
 
-## 👥 Abreast Data Contributors
+## 👥 ABreast Data Contributors
 
 - 🏥 **Ernest Cook Ultrasound Research and Education Institute (ECUREI)**, Kampala, Uganda
 - 🏥 **Crestview Radiology Ltd, Lagos, Nigeria / Medical Artificial Intelligence Lab.** Lagos, Nigeria
