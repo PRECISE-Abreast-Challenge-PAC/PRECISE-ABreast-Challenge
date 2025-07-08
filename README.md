@@ -175,8 +175,8 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 
 ### 🤝 Sponsors & Funding
 <p align="center">
-  <img src="" alt="Lacuna Fund" width="120"/>  
-  <img src="" alt="Penn Global" width="120"/>
+  <img src="https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-ABreast-Challenge/blob/main/Resources/images/LacunaFund.jpg?raw=true" alt="Lacuna Fund" width="120"/>  
+  <img src="https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-ABreast-Challenge/blob/main/Resources/images/UPenn.jpg?raw=true" alt="Penn Global" width="120"/>
 </p>
 
 ---
