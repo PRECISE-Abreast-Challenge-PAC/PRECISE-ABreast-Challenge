@@ -174,8 +174,10 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 - Prof. Michael Kowoya (ECUREI – Uganda) 
 
 ### 🤝 Sponsors & Funding
-- Lacuna Fund
-- Penn Global
+<p align="center">
+  <img src="" alt="Lacuna Fund" width="120"/>  
+  <img src="" alt="Penn Global" width="120"/>
+</p>
 
 ---
 
