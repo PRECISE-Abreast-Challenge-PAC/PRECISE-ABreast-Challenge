@@ -1,4 +1,4 @@
-![PRECISE-Abreast Challenge Banner](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/Resources/PRECISE-BANNER.jpg?raw=true)
+![PRECISE-Abreast Challenge Banner](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/Resources/images/PRECISE.jpg?raw=true)
 # 🩺 Welcome to the PRECISE-Abreast Challenge
 **PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PACE)**
 
