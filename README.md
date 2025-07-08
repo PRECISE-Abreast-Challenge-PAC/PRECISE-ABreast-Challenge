@@ -141,7 +141,7 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 ### 👥 Organizing Committee
 - Confidence Raymond (SPARK Academy)  
 - Moses Iorumbur (FUT Minna, Nigeria)  
-- MMaruf Adewole (UPenn, US) 
+- Maruf Adewole (UPenn, US) 
 - Henry Sanni (FUT Minna, Nigeria)  
 - John Othieno (ECUREI – Uganda)  
 
