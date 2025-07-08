@@ -118,17 +118,6 @@ Please refer to the timeline below for key dates and deadlines:
 
 ![PRECISE-Abreast Timeline](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-ABreast-Challenge/blob/main/Resources/images/TimeLine.jpg?raw=true)
 
-
----
-
-## 👥 ABreast Data Contributors
-
-- 🏥 **Ernest Cook Ultrasound Research and Education Institute (ECUREI)**, Kampala, Uganda
-- 🏥 **Crestview Radiology Ltd, Lagos, Nigeria / Medical Artificial Intelligence Lab.** Lagos, Nigeria
-
-📂 **Access Instructions:**  
-You can find full details, structure, and download instructions in the [Dataset README](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/dataset.md).
-
 ---
 
 ## 📨 Submission
