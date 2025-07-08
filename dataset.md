@@ -1,27 +1,22 @@
 ## 🗃️ Dataset
 
-The PRECISE-Abreast Challenge utilizes a curated, multi-institutional dataset of breast ultrasound (BUS) images to support the development and evaluation of algorithms for **lesion detection, classification, and segmentation**. The dataset integrates images from four distinct sources: 
+The PRECISE-ABreast Challenge utilizes a curated, multi-institutional dataset of breast ultrasound (BUS) images to support the development and evaluation of algorithms for lesion detection, classification, and segmentation. The dataset integrates images from four distinct sources: the BUSI dataset by Al-Dhabyani et al. (2020)[1], the BrEaST dataset by Pawłowska et al. (2024)[2], the BUS-BRA dataset by Gómez-Flores et al. (2024)[3], and the ABreast point-of-care dataset, an unpublished prospective collection of breast handheld ultrasound scans from community-dwelling women in sub-Saharan Africa.
 
-- 📚 **BUSI** – Al-Dhabyani et al. (2020) [1]  
-- 🧪 **BrEaST** – Pawłowska et al. (2024) [2]  
-- 🔬 **BUS-BRA** – Gómez-Flores et al. (2024) [3]  
-- 🌍 **ABreast** – an unpublished prospective collection of breast ultrasound scans from sub-Saharan Africa.
+All images are paired with expert-verified reference annotations, including **lesion boundaries** and diagnostic labels (`normal, benign, malignant`), enabling robust supervised learning and quantitative evaluation. The combined dataset reflects a wide range of ultrasound acquisition protocols and patient demographics to improve algorithmic fairness and clinical relevance.
 
-All images are paired with expert-verified reference annotations, including  **lesion boundaries** and **diagnostic labels** ( `normal`, `benign`, `malignant`.), enabling robust supervised learning and quantitative evaluation. The combined dataset reflects a wide range of ultrasound acquisition protocols and patient demographics to improve algorithmic fairness and clinical relevance.
-
-**Phase I** includes **7,354  images across training and validation sets**, comprising
+**Phase I** of the challenge includes **7,354  images across training and validation sets**, comprising
 - 4,574 benign  
 - 2,248 malignant  
 - 532 normal  cases sourced from the **BUSI, BrEaST**, and **BUS-BRA** datasets.
 
-**Phase II** introduces new annotated cases from the **ABreast dataset**. A **private test subset** will be reserved for the Test Phase and used for the final evaluation of submitted models, ensuring blind, unbiased assessment on African-representative data.
+**Phase II** will introduce additional annotated cases from the **ABreast dataset**. A private subset of ABreast data will be reserved for the Test Phase and used for the final evaluation of submitted models, ensuring a blind, unbiased assessment of African-representative data.
 
 The dataset follows the naming convention outlined below:
 
 **File naming convention**:
-- `PABC`: Challenge name  
+- `PACE`: Name of the challenge  
 - `00001`: Subject ID  
-- `000–101`: Scan type & diagnosis:
+- `000–101`: Scan timepoint and diagnostic status, defined as:
   - 000: Baseline – Normal  
   - 001: Baseline – Benign  
   - 002: Baseline – Malignant  
@@ -30,11 +25,12 @@ The dataset follows the naming convention outlined below:
 - `DSET`: Dataset source tag, defined as:
   - `BUS`: `BUSI`, `BRE`: `BrEaST`, `BBR`: `BUS-BRA`, `ABR`: `Abreast`
 
-**Example**: `PABC_00023_002_ABR` → Subject 00023, baseline malignant, sourced from ABreast dataset
+**Example**: `PACE_00023_002_ABR` → Subject 00023, baseline malignant, sourced from ABreast dataset
 
 Each ultrasound study includes a single **2D grayscale image** or a **Doppler image**, with resolutions varying based on the equipment used.
 
 ⚠️ Participants may **not** use any publicly available annotated datasets. However, they are permitted to use any published open-source models **ResNet-50** including **pretrained weights** from publicly available sources.
+
 
 ---
 
