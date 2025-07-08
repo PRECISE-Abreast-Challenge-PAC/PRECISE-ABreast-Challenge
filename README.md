@@ -1,10 +1,10 @@
 ![PRECISE-Abreast Challenge Banner](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/Resources/PRECISE-BANNER.jpg?raw=true)
 # 🩺 Welcome to the PRECISE-Abreast Challenge
-**PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PABC)**
+**PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PACE)**
 
 Breast cancer is highly prevalent in Africa, with many women presenting at late stages due to limited awareness, diagnostic access, and cultural stigma. The lack of annotated breast imaging datasets representative of African populations also limits the effectiveness of AI in supporting early detection. Radiologist shortages, financial constraints, and societal barriers further complicate timely diagnosis and care, especially in rural and underserved areas.
 
-The **PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PABC)** addresses these challenges by promoting **AI-driven solutions** using ultrasound data collected through the **ABreast Project**. This community-based initiative trains health workers to perform portable ultrasound exams and collect imaging data for machine learning. The challenge aims to develop accurate segmentation and classification algorithms tailored to African data, to improve with the aim of deploying these tools for early detection, enhancing diagnostic equity, and enabling scalable screening tools across low-resource settings
+The **PRECISE-Africa Breast (ABreast) Ultrasound Segmentation and Classification Challenge (PACE)** addresses these challenges by promoting **AI-driven solutions** using ultrasound data collected on African women through the **ABreast Project**. This community-based initiative improves access to breast cancer screening in vulnerable underserved communities using portable ultrasound scans performed in the community and enhanced tumor imaging using machine learning. The PACE Challenge aims to develop accurate segmentation and classification algorithms tailored to African breast ultrasound data, to advance the deployment of these accessible point-of-care tools for early detection, enhancing diagnostic equity, and enabling scalable screening tools across low-resource settings.
 
 ---
 
@@ -22,40 +22,35 @@ Please refer to the [Registration README](https://github.com/PRECISE-Abreast-Cha
 
 ## 📝 Award Eligibility
 
-To participate in the PRECISE-Abreast Challenge, applicants must:
+To participate in the PRECISE-ABreast Challenge, participating teams must meet the following requirements:
 
-- 🧑‍🎓 Be a **student, researcher, or clinician** in a relevant field, affiliated with an institution or organisation based in **Africa**  
-- 🌍 Be **currently residing in Africa**  
-- 🧾 Be **registered** for the **PRECISE Conference** and attend the **PRECISE-Abreast Workshop**, either **in person or online**  if participating as an individual or represented by a team member.
-- 📄 Submit a **camera-ready paper** reporting the details of the methods in **Springer’s LNCS format**  
-- ✅ Agree to the **Challenge Terms and Conditions**
+- 🧑‍🎓 Have active members who are students, researchers, or clinicians in a relevant field, affiliated with an institution or organisation based in **Africa**  
+- 🌍 Must have at least one or two active members who **currently residing in Africa**  
+- 🧾 Have active members who are registered to attend the **PRECISE Conference** and committed to attending the **PRECISE-ABreast Workshop,** either in person or Online, if participating as an individual or represented by a team member..
+- 📄 Submit a **camera-ready paper** reporting the details of the methods in **[Springer’s LNCS conference proceedings format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines?srsltid=AfmBOoqal5rcgwA-guJYqKR6WYb1NlPmMBZsFUNnys7gqkakP6V2XJZL)**  
+- ✅ Must agree to the **PRECISE-ABreast Challenge Terms and Conditions**
 
 ---
 
 ## 🗃️ Dataset
 
-The PRECISE-Abreast Challenge utilizes a curated, multi-institutional dataset of breast ultrasound (BUS) images to support the development and evaluation of algorithms for **lesion detection, classification, and segmentation**. The dataset integrates images from four distinct sources: 
+The PRECISE-ABreast Challenge utilizes a curated, multi-institutional dataset of breast ultrasound (BUS) images to support the development and evaluation of algorithms for lesion detection, classification, and segmentation. The dataset integrates images from four distinct sources: the BUSI dataset by Al-Dhabyani et al. (2020)[1], the BrEaST dataset by Pawłowska et al. (2024)[2], the BUS-BRA dataset by Gómez-Flores et al. (2024)[3], and the ABreast point-of-care dataset, an unpublished prospective collection of breast handheld ultrasound scans from community-dwelling women in sub-Saharan Africa.
 
-- 📚 **BUSI** – Al-Dhabyani et al. (2020) [1]  
-- 🧪 **BrEaST** – Pawłowska et al. (2024) [2]  
-- 🔬 **BUS-BRA** – Gómez-Flores et al. (2024) [3]  
-- 🌍 **ABreast** – an unpublished prospective collection of breast ultrasound scans from sub-Saharan Africa.
+All images are paired with expert-verified reference annotations, including **lesion boundaries** and diagnostic labels (`normal, benign, malignant`), enabling robust supervised learning and quantitative evaluation. The combined dataset reflects a wide range of ultrasound acquisition protocols and patient demographics to improve algorithmic fairness and clinical relevance.
 
-All images are paired with expert-verified reference annotations, including  **lesion boundaries** and **diagnostic labels** ( `normal`, `benign`, `malignant`.), enabling robust supervised learning and quantitative evaluation. The combined dataset reflects a wide range of ultrasound acquisition protocols and patient demographics to improve algorithmic fairness and clinical relevance.
-
-**Phase I** includes **7,354  images across training and validation sets**, comprising
+**Phase I** of the challenge includes **7,354  images across training and validation sets**, comprising
 - 4,574 benign  
 - 2,248 malignant  
 - 532 normal  cases sourced from the **BUSI, BrEaST**, and **BUS-BRA** datasets.
 
-**Phase II** introduces new annotated cases from the **ABreast dataset**. A **private test subset** will be reserved for the Test Phase and used for the final evaluation of submitted models, ensuring blind, unbiased assessment on African-representative data.
+**Phase II** will introduce additional annotated cases from the **ABreast dataset**. A private subset of ABreast data will be reserved for the Test Phase and used for the final evaluation of submitted models, ensuring a blind, unbiased assessment of African-representative data.
 
 The dataset follows the naming convention outlined below:
 
 **File naming convention**:
-- `PABC`: Challenge name  
+- `PACE`: Name of the challenge  
 - `00001`: Subject ID  
-- `000–101`: Scan type & diagnosis:
+- `000–101`: Scan timepoint and diagnostic status, defined as:
   - 000: Baseline – Normal  
   - 001: Baseline – Benign  
   - 002: Baseline – Malignant  
@@ -64,7 +59,7 @@ The dataset follows the naming convention outlined below:
 - `DSET`: Dataset source tag, defined as:
   - `BUS`: `BUSI`, `BRE`: `BrEaST`, `BBR`: `BUS-BRA`, `ABR`: `Abreast`
 
-**Example**: `PABC_00023_002_ABR` → Subject 00023, baseline malignant, sourced from ABreast dataset
+**Example**: `PACE_00023_002_ABR` → Subject 00023, baseline malignant, sourced from ABreast dataset
 
 Each ultrasound study includes a single **2D grayscale image** or a **Doppler image**, with resolutions varying based on the equipment used.
 
@@ -75,7 +70,7 @@ Each ultrasound study includes a single **2D grayscale image** or a **Doppler im
 
 ## 🧠 Task: Multi-Task Classification, Breast Lesion detection and Segmentation
 
-🔍 Participants are required to design a single model that performs **multi-task learning**, simultaneously predicting the **breast-level diagnostic category** (`no lesion`, `benign lesion`, `malignant lesion`) and generating a **pixel-wise segmentation mask** of any visible lesion. This combined task reflects **real-world clinical workflows** where lesion detection, delineation, and diagnosis occur in parallel.
+🔍 Participants are required to design a single model that performs **multi-task learning**, simultaneously predicting the **breast-level diagnostic category** (no lesion, benign lesion, malignant lesion) and generating a **pixel-wise segmentation mask** of any visible lesion. This combined task reflects real-world clinical workflows where lesion detection, delineation, and diagnosis occur in parallel.
 
 By emphasising both classification and segmentation in a single pipeline, the challenge encourages the development of robust, efficient, and clinically meaningful models suited for automated breast cancer assessment in resource-constrained settings.
 
@@ -86,7 +81,8 @@ By emphasising both classification and segmentation in a single pipeline, the ch
 
 ## 📊 Evaluation Criteria
 
-🏁 Performance will be assessed by averaging raw ranks across segmentation and classification metrics. Segmentation will be evaluated using **Lesion-wise Dice Similarity Coefficient (DSC)** and **Normalized Surface Dice (NSD)**, while classification will be measured by **Area Under the Curve (AUC)**, specificity at 90% sensitivity, and sensitivity at 90% specificity. All metrics will contribute equally to the final ranking.
+🏁 Performance will be assessed by averaging raw ranks across segmentation and classification metrics. Segmentation will be evaluated using**Normalized Surface Dice (NSD)** and **Lesion-wise Dice Similarity Coefficient (DSC)**[4], while classification will be measured by **Area Under the Curve (AUC)**[5], specificity at 90% sensitivity, and sensitivity at 90% specificity[6]. All metrics will contribute equally to the final ranking.
+
 
 ### Segmentation:
 - 🎯 Lesion-wise **Dice Similarity Coefficient (DSC)**
@@ -107,9 +103,9 @@ Details for the Cog containerized model test evaluation are provided on Github.
 ## 🏆 Awards
 
 🎤 The **Top 3 contestants/teams** will be:
-- Invited and mentored to present their work as part of  **MIRASOL-NextGen Interchange Workshop @ MICCAI 2026** (Abu Dhabi UAE)
+- invited and mentored to submit their winning models to a leading oncology and women's imaging journal.
 
-🎓 **10 motivated participants** who demonstrated interest, motivation, leadership and determination will be shortlisted for **University of Pennsylvania Master of Science in Engineering in Data Science Scholarship.**
+🎓 **10 motivated participants** who demonstrated interest, motivation, leadership and determination will be shortlisted for the **University of Pennsylvania’s of Science in Engineering in Data Science Scholarship**.
 
 🏥 The **top 2 models** would be deployed for **clinical evaluation**
 
@@ -117,17 +113,18 @@ Details for the Cog containerized model test evaluation are provided on Github.
 
 ## 🗓️ Important Dates
 
-The challenge will run across multiple phases, including training, validation, and test periods.  
+📅 The challenge will run across multiple phases, including training, validation, and test periods.  
 Please refer to the timeline below for key dates and deadlines:
 
 ![PRECISE-Abreast Timeline](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/Resources/timeline.jpg?raw=true)
+
 
 ---
 
 ## 👥 Abreast Data Contributors
 
-- 🏥 **Ernest Cook Ultrasound Research and Education Institute** – Kampala, Uganda  
-- 🏥 **Crestview Radiology Ltd** – Lagos, Nigeria
+- 🏥 **Ernest Cook Ultrasound Research and Education Institute (ECUREI)**, Kampala, Uganda
+- 🏥 **Crestview Radiology Ltd, Lagos, Nigeria / Medical Artificial Intelligence Lab.** Lagos, Nigeria
 
 📂 **Access Instructions:**  
 You can find full details, structure, and download instructions in the [Dataset README](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/dataset.md).
@@ -145,7 +142,7 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 ---
 
 ## 📜 Terms and Conditions
-📌 **Terms and conditions apply** – please review the full document here:  
+📌 **Terms and conditions apply** please review the full document here:  
 [View Full Terms and Conditions](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/terms_conditions.md)
 
 ---
@@ -161,3 +158,6 @@ Please contact us for further questions or comments via email:  **preciseabrestc
 -  [1] Al-Dhabyani, Walid, Mohammed Gomaa, Hussien Khaled, and Aly Fahmy. "Dataset of breast ultrasound images." Data in brief 28 (2020): 104863. 
 -  [2]  Pawłowska, A., Ćwierz-Pieńkowska, A., Domalik, A., Jaguś, D., Kasprzak, P., Matkowski, R., Fura, Ł., Nowicki, A., & Zolek, N. A Curated benchmark dataset for ultrasound-based breast lesion analysis. Sci Data 11, 148 (2024). https://doi.org/10.1038/s41597-024-02984-z.  
 -  [3] Gómez-Flores, Wilfrido, Maria Julia Gregorio-Calas, and Wagner Coelho de Albuquerque Pereira. "BUS-BRA: A breast ultrasound dataset for assessing computer-aided diagnosis systems." Medical Physics 51, no. 4 (2024): 3110-3123.
+-  [4] Zhang E, Seiler S, Chen M, Lu W, Gu X. Boundary-aware semi-supervised deep learning for breast ultrasound computer-aided diagnosis. In 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2019 Jul 23 (pp. 947-950). IEEE.
+-  [5] Zhao G, Kong D, Xu X, Hu S, Li Z, Tian J. Deep learning-based classification of breast lesions using dynamic ultrasound video. European Journal of Radiology. 2023 Aug 1;165:110885.
+-  [6] Byra M, Galperin M, Ojeda‐Fournier H, Olson L, O'Boyle M, Comstock C, Andre M. Breast mass classification in sonography with transfer learning using a deep convolutional neural network and color conversion. Medical physics. 2019 Feb;46(2):746-55.
