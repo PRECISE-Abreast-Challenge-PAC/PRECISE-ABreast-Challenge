@@ -3,7 +3,6 @@
 By registering for and participating in the **PRECISE-Abreast Challenge 2025** ("the Challenge"), you ("the Participant") agree to comply with the following Terms and Conditions. These terms are designed to ensure a fair, ethical, and impactful competition that aligns with the overarching mission of the PRECISE Symposium and its commitment to advancing equitable cancer diagnostics across Africa.
 
 ### 🔐 1. Eligibility
-- Participation is open to **students, researchers, and clinicians** affiliated with an **institution based in Africa**.
 - All participants must **currently reside in Africa** and be **registered for the PRECISE Conference 2025**.
 - Participants may join individually or as part of a team, but at least one team member must attend the **PRECISE-Abreast Workshop** (virtually or in person).
 - Participants must submit a **camera-ready paper** describing their methods in **Springer’s LNCS format** by the stated deadline.
