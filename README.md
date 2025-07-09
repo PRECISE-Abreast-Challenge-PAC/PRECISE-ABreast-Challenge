@@ -101,10 +101,9 @@ Details for the Cog containerized model test evaluation are provided on Github.
 ---
 
 ## 🏆 Awards
-
-💰Win Cash Prizes: 1st place - 500, 2nd place−300, and 3rd place - 200$
-🤝 The top three contestants/teams will be invited and mentored to submit their winning models to a leading oncology and women's imaging journal.
-🏥 The top 2 models would be deployed for clinical evaluation.
+- 💰 Win Cash Prizes: 1st place - 500, 2nd place−300, and 3rd place - 200$
+- 🤝 The **top three** contestants/teams will be invited and mentored to submit their winning models to a leading oncology and women's imaging journal.
+- 🏥 The **top 2 models** would be deployed for clinical evaluation.
 ---
 
 ## 🗓️ Important Dates
