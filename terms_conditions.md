@@ -14,6 +14,10 @@ By registering for and participating in the **PRECISE-Abreast Challenge 2025** (
   ✅ Open-source model architectures and pretrained weights (e.g., **ResNet-50**, **U-Net**) may be used.
 - Redistribution or publication of the challenge data in any form without prior written permission is **not allowed**.
 - Participants may **not attempt to de-anonymize** any patient information in the dataset.
+- Teams may request to withdraw from the challenge at any time **before the start of the final testing phase**, provided they notify the organisers in writing.
+- Withdrawals after results have been ranked or released will not be permitted.
+- By submitting to the final test phase, participants acknowledge that their results may be included in rankings, publications, and summary analyses.
+
 
 ### 📦 3. Submission Requirements
 - Each team must submit a single, **containerized (Cog-compatible)** model capable of performing **multi-task learning** (classification and segmentation) on the challenge data.
