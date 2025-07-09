@@ -102,13 +102,9 @@ Details for the Cog containerized model test evaluation are provided on Github.
 
 ## 🏆 Awards
 
-🎤 The **Top 3 contestants/teams** will be:
-- invited and mentored to submit their winning models to a leading oncology and women's imaging journal.
-
-🎓 **10 motivated participants** who demonstrated interest, motivation, leadership and determination will be shortlisted for the **University of Pennsylvania’s of Science in Engineering in Data Science Scholarship**.
-
-🏥 The **top 2 models** would be deployed for **clinical evaluation**
-
+💰Win Cash Prizes: 1st place - 500, 2nd place−300, and 3rd place - 200$
+🤝 The top three contestants/teams will be invited and mentored to submit their winning models to a leading oncology and women's imaging journal.
+🏥 The top 2 models would be deployed for clinical evaluation.
 ---
 
 ## 🗓️ Important Dates
