@@ -23,8 +23,7 @@ Please refer to the [Registration README](https://github.com/PRECISE-Abreast-Cha
 ## 📝 Award Eligibility
 
 To participate in the PRECISE-ABreast Challenge, participating teams must meet the following requirements:
-
-- 🧑‍🎓 Have active members who are students, researchers, or clinicians in a relevant field, affiliated with an institution or organisation based in **Africa**  
+ 
 - 🌍 Must have at least one or two active members who **currently residing in Africa**  
 - 🧾 Have active members who are registered to attend the **PRECISE Conference** and committed to attending the **PRECISE-ABreast Workshop,** either in person or Online, if participating as an individual or represented by a team member..
 - 📄 Submit a **camera-ready paper** reporting the details of the methods in **[Springer’s LNCS conference proceedings format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines?srsltid=AfmBOoqal5rcgwA-guJYqKR6WYb1NlPmMBZsFUNnys7gqkakP6V2XJZL)**  
