@@ -9,15 +9,13 @@ The **PRECISE-Africa Breast (ABreast) Ultrasound Segmentation and Classification
 ---
 
 ## 📝 Registration
+📜 **Registration Guidelines:**  
+Please refer to the [Registration README](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/registration.md) for complete instructions.
 
 To participate in the challenge, teams must complete the registration process by submitting their **team name** and member details through this **[Form](https://forms.office.com/r/40RFrz6XRJ)**.  
 Each team can have up to **5 members**, including one designated **team leader**.  
 
 Please make sure to provide accurate **Codabench usernames** for all team members, as this is required to grant access to the dataset and submission platform.
-
-📜 **Registration Guidelines:**  
-Please refer to the [Registration README](https://github.com/PRECISE-Abreast-Challenge-PAC/PRECISE-Abreast-Challenge/blob/main/registration.md) for complete instructions.
-
 ---
 
 ## 📝 Award Eligibility
