@@ -1,14 +1,15 @@
 # 🏆 PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PACE)  
 ## 📊 Validation Phase Leaderboard
 
-| 🧑‍🤝‍🧑 Team / Individual | 🧬 **DSC (Lesion) ⬆️**     | 📊 **IoU ⬆️**             | 📏 **NSD ⬆️**            | 🧭 **HD95 ⬇️**              | 📈 **AUC ⬆️**  |
-|--------------------------|----------------------------|---------------------------|---------------------------|-----------------------------|----------------|
-| **EbimoJohnny**          | 0.8911255583108411         | 0.8198084188001891        | 0.10553494328872758       | 24.00853550527978           | 0.954001       |
-| **ViktorOnyedim**        | 0.8386568622870437         | 0.7604891609154847        | 0.09120947581327227       | 32.76816980217845           | 0.906444       |
-| **Team 3**               | -                          | -                         | -                         | -                           | -              |
-| **Team 4**               | -                          | -                         | -                         | -                           | -              |
-| **Team 5**               | -                          | -                         | -                         | -                           | -              |
+| 🧑‍🤝‍🧑 Team / Individual | 🧬 **DSC (Lesion) ⬆️** | 📏 **NSD ⬆️** | 🧭 **HD95 ⬇️** | 📊 **IoU ⬆️** | 📈 **AUC ⬆️** |
+|--------------------------|-------------------------|----------------|------------------|----------------|----------------|
+| **EbimoJohnny**          | 0.8911                  | 0.1055         | 24.01            | 0.8198         | 0.9540         |
+| **ViktorOnyedim**        | 0.8387                  | 0.0912         | 32.77            | 0.7605         | 0.9064         |
+| **TumorMarker**          | 0.8274                  | 0.0795         | 27.45            | 0.7441         | 0.9125         |
+| **TEAM-GIT-UP**          | –                       | –              | –                | –              | 0.0000         |
+| **Team 4**               | –                       | –              | –                | –              | –              |
+| **Team 5**               | –                       | –              | –                | –              | –              |
 
-> 🚧 **Leaderboard will start updating soon as validation results are submitted.**  
+> 🚧 **Leaderboard will continue to update as validation results are submitted.**  
 > ⬆️ Higher is better  ⬇️ Lower is better  
 > 📌 *Final rankings will be based on Test Phase performance.*
