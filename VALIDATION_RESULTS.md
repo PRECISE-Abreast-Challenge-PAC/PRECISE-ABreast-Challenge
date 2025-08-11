@@ -1,5 +1,5 @@
 # 🏆 PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PACE)  
-## 📊 Validation Phase Leaderboard
+## 📊 Validation Phase Leaderboard – *First Submission*
 
 | 🧑‍🤝‍🧑 Team / Individual | 🧬 **DSC (Lesion) ⬆️** | 📏 **NSD ⬆️** | 🧭 **HD95 ⬇️** | 📊 **IoU ⬆️** | 📈 **AUC ⬆️** |
 |--------------------------|-------------------------|----------------|------------------|----------------|----------------|
@@ -10,6 +10,16 @@
 | **TEAM-GIT-UP**          | –                       | –              | –                | –              | 0.0000         |
 | **Team 5**               | –                       | –              | –                | –              | –              |
 
-> 🚧 **Leaderboard will continue to update as validation results are submitted.**  
-> ⬆️ Higher is better  ⬇️ Lower is better  
-> 📌 *Final rankings will be based on Test Phase performance.*
+
+---
+## 📊 Validation Phase Leaderboard – *Second Submission*
+
+| 🧑‍🤝‍🧑 Team / Individual | 🧬 **DSC (Lesion) ⬆️** | 📏 **NSD ⬆️** | 🧭 **HD95 ⬇️** | 📊 **IoU ⬆️** | 📈 **AUC ⬆️** |
+|--------------------------|-------------------------|----------------|------------------|----------------|----------------|
+| **EbimoJohnny**          | 0.9234                  | 0.1246         | 13.58            | 0.8630         | 0.9873         |
+| **TumorMarker**          | 0.7369                  | 0.0454         | 59.81            | 0.6125         | 0.9225         |
+| **AgbajeAyomipo**        | 0.8071                  | 0.0706         | 30.17            | 0.7183         | 0.9204         |
+| **ViktorOnyedim**        | –                       | –              | –                | –              | 0.9064         |
+| **TEAM-GIT-UP**          | 0.7369                  | 0.0454         | 59.81            | 0.6125         | 0.8588         |
+| **Nimalesh**             | –                       | –              | –                | –              | 0.5415         |
+| **Nimalesh-23**          | –                       | –              | –                | –              | –              |
