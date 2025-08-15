@@ -141,7 +141,7 @@ Please refer to the [Submission README](https://github.com/PRECISE-Abreast-Chall
 ### 🛠 Technical Committee
 - Mohannad Barakat (FAU, Germany)  
 - Noha Magdy (FAU, Germany)  
-- Toufiq Musah (KNU Kumasi - Ghana) 
+- Toufiq Musah (KCCR, Kumasi - Ghana) 
 - Oumayma Soula (FMS Sfax - Tunisia)  
 - Ayomide Oladele (MAILAB Lagos -Nigeria) 
 - Patience Bwire (CWU Rwanda) 
